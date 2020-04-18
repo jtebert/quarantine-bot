@@ -1,0 +1,10 @@
+models/
+__pycache__/
+*.pyc
+
+.vscode/
+venv/
+
+# Ignore stuff that I have here for testing (other repositories)
+Realsense-Object-Detection-Public/
+coral/
